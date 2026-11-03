@@ -2,6 +2,9 @@
 
 Version numbers: MAJOR.MINOR.PATCH. Minor = new features or new courses; patch = fixes and data corrections.
 
+## 1.3.0 — 2026-11-03
+- Settings → Rules: "Miss zones (beta)", off by default. Plans check each club's whole left-right miss (from its reliability) against mapped hazards, not just the center line.
+
 ## 1.2.0 — 2026-11-03
 - Data cleanup: removed 55 mapped hazards that sat past the green (e.g. the phantom water on Apple Hill #1).
 - Course owner can now remove or add hazards for everyone; changes publish here on refresh.

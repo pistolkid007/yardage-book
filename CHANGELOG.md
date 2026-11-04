@@ -2,6 +2,11 @@
 
 Version numbers: MAJOR.MINOR.PATCH. Minor = new features or new courses; patch = fixes and data corrections.
 
+## 1.4.0 — 2026-11-04
+- 27 new courses (61 total): Morgan Hills, Sugarloaf, Mount Airy, Stone Hedge, Jack Frost National, Stowe, North Conway, Captains Starboard, Bayberry Hills, Highland Links, Bass River, Brookside, Split Rock North, ButterBrook, Fresh Pond, Chemawa, Mill Race, Royal Oaks, Allentown Muni, Legends Heathland and Moorland, Pine Lakes, Blackmoor, Aberdeen, Edgewood in the Pines, and all three Blue Ridge Trail combinations.
+- Play order: start an 18 on the second nine (e.g. Blue Ridge Ridge-then-Blue), from the course view or the Play tab.
+- Blue Ridge Trail is scorecard-only for now; its map numbers the three nines the same way, so hazards couldn't be placed reliably.
+
 ## 1.3.0 — 2026-11-03
 - Settings → Rules: "Miss zones (beta)", off by default. Plans check each club's whole left-right miss (from its reliability) against mapped hazards, not just the center line.
 
